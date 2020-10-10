@@ -1,4 +1,4 @@
-# Bootstrap v4.1 Grid no Photoshop
+# Bootstrap v4.2 Grid no Photoshop
 > Arquivo do Photoshop com o grid do Bootstrap.
 
 Facilita a confecção de sites disponibilizando um grid de 12 colunas no padrão do [Bootstrap][1] versão 4.1, assim pode-se criar layouts para sites rapidamente.
