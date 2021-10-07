@@ -7,7 +7,7 @@ Facilita a confecção de sites disponibilizando um grid de 12 colunas no padrã
 
 ## Instalação
 
-Clique no botão de [download][2] ou clone esse repositório usando o comando `git clone git@github.com:rat/bootstrap-grid.git`
+Clique no botão de [download][2] ou clone esse repositório usando o comando `git clone git@github.com:renatotavares/bootstrap-grid.git`
 
 ## Uso
 
